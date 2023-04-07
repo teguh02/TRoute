@@ -1,6 +1,7 @@
 {
     "name": "teguh02/t_route",
     "description": "Simple PHP Routing System",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Teguh02\\TRoute\\": "src/"
