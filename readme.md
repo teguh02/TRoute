@@ -5,7 +5,7 @@ Simple and Fast PHP Routing System
 To install with composer you can run this command to your already project
 
 ```
-composer
+composer require teguh02/t_route
 ```
 
 # Usage
@@ -114,7 +114,7 @@ Route::get('/foo/{params}', function ($params) {
 
 ```
 
-and you can see all of sample files inside <a href="https://github.com/teguh02/TRoute/example">example folder</a>
+and you can see all of sample files inside <a href="https://github.com/teguh02/TRoute/tree/master/example">example folder</a>
 
 if you have a question feel free to open a new issue, or if you want to collaborate this project you can clone and open a pull request to my repository. 
 
