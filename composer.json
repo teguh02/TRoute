@@ -1,0 +1,22 @@
+{
+    "name": "teguh02/t_route",
+    "description": "Simple PHP Routing System",
+    "autoload": {
+        "psr-4": {
+            "Teguh02\\TRoute\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Teguh Rijanandi",
+            "email": "teguhrijanandi02@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
